@@ -21,7 +21,7 @@ I received my master's and Ph.D. degrees from Tsinghua University, advised by [P
 
 # Events
 
-- 2025/06/19: **SimPoint** Best Paper Nominee, [Euro-par 2025](https://2025.euro-par.org/).
+- 2025/06/19: **SimPoint+** Best Paper Nominee, [Best Paper Session @ Euro-par 2025](https://easychair.org/smart-program/EURO-PAR2025/2025-08-28.html#session:97092).
 - 2025/05/01: **"SimPoint+: More Stable, Accurate and Efficient Program Analysis"** accepted by [Euro-par 2025](https://2025.euro-par.org/).
 - 2025/04/01: **"A Neural Network-Based Pipeline Parallel Strategy Solver for Heterogeneous Environments"** accepted by [IJCNN 2025](https://2025.ijcnn.org/).
 - 2025/04/01: **"Low-Rank Decomposition Assisted Quantization and Inference Compensation for Quality Large Language Model Inference"** accepted by [IJCNN 2025](https://2025.ijcnn.org/).
