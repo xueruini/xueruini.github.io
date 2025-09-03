@@ -28,6 +28,7 @@ I received my master's and Ph.D. degrees from Tsinghua University, advised by [P
 
 # Publications
 
+- Jiangying Xue, Tianyu Xiong, Lingwei Chao, and Ruini Xue. **SimPoint+: More Stable, Accurate and Efficient Program Analysis.** *In European Conference on Parallel Processing (Euro-Par 2025)*, pp. 3-17. Cham: Springer Nature Switzerland, 2025.
 - Haowen Bian, Lingwei Chao, Jingxuan Su, Wenhong Tian, Ruini Xue. **Robust ANN Searching for Dynamic Vector Streams without Rebuilding Index.** *2024 5th International Conference on Computer, Big Data and Artificial Intelligence (ICCBD+AI)*, Jingdezhen, China, 2024, pp. 278-282.
 - Nanxin Zhou, Yiwei Liu, Yujun Li, Ruini Xue. **A Generalization-Enhanced Method for Encrypted Proxy Traffic Identification Based on Autoencoder.** *2024 2nd International Conference On Mobile Internet, Cloud Computing and Information Security (MICCIS)*, Changsha City, China, 2024, pp. 221-228.
 - Zhongyu Yang, Chen Shen, Wei Shao, Tengfei Xing, Runbo Hu, Pengfei Xu, Hua Chai, Ruini Xue. **LDTR: Transformer-based Lane Detection with Anchor-chain Representation.** *Comp. Visual Media* (2024): 10(4):753-769.
@@ -80,10 +81,10 @@ I received my master's and Ph.D. degrees from Tsinghua University, advised by [P
 - Lingna Xin
 - Lingwei Chao
 
+## Graduated
 - Haowen Bian
 - Jingxuan Su
 
-## Graduated
 - Kuanlu Fan
 - Rui Wang
 - Zhaoxian Wang
