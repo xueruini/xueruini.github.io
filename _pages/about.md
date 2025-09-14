@@ -16,7 +16,7 @@ I received my master's and Ph.D. degrees from Tsinghua University, advised by [P
 # Teaching
 
 - *Operating System*, Undergradutaes, 2012-2025
-- *Distributed System*, Graduates, 2019-2024
+- *Distributed System*, Graduates, 2019-2025
 - *Advanced Network System*, Graduates, 2016-2018
 
 # Events
