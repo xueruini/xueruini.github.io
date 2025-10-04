@@ -1,11 +1,9 @@
 ---
-published: true
 permalink: /
 title: "Ruini Xue"
 author_profile: true
 redirect_from:
   - /home/
-  - /index.html
 ---
 
 # Bio
