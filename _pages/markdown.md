@@ -1,4 +1,6 @@
 ---
+published: false
+sitemap: false
 permalink: /markdown/
 title: "Markdown"
 author_profile: true

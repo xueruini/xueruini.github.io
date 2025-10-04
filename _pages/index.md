@@ -1,4 +1,5 @@
 ---
+published: true
 permalink: /
 title: "Ruini Xue"
 author_profile: true
