@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Ruini Xue"
 author_profile: true
 redirect_from:
   - /home/
