@@ -8,9 +8,9 @@ redirect_from:
 
 # Bio
 
-I am currently teaching the graduate course “Distributed Systems” and the undergraduate course “Operating Systems”. My research interests span computer architecture and distributed systems, with a focus on graph computing, graph databases, and vector indexing. Recently, my group has been exploring both AI for systems and systems for AI. Our research outcomes have been integrated into products or deployed in production environments at leading companies such as [Ant Group](https://www.antgroup.com/), [DiDi Global](https://www.didiglobal.com/) and [Stargraph](https://www.stargraph.cn/).
+I am currently teaching the graduate course *Distributed Systems* and the undergraduate course *Operating Systems*. My research interests span computer architecture and distributed systems, with a focus on AI for systems (simulation for RISC-V CPUs and GPUs) and systems for AI (i.e., AI compilers, high-efficiency inference engines, vector indexing, and graph databases/computing). Our research outcomes have been integrated into products or deployed in production environments at leading companies such as [Ant Group](https://www.antgroup.com/), [DiDi Global](https://www.didiglobal.com/), and [Stargraph](https://www.stargraph.cn/). If you are interested in conducting research on AI infrastructure or chipset simulation methodologies, please feel free to contact me via the email address in the left column.
 
-I received my master's and Ph.D. degrees from Tsinghua University, advised by [Prof. Weimin Zheng](https://www.cs.tsinghua.edu.cn/info/1137/3889.htm) and [Prof. Wenguang Chen](https://pacman.cs.tsinghua.edu.cn/~cwg/).
+I received my master's and Ph.D. degrees from Tsinghua University, advised by [Prof. Weimin Zheng](https://www.cs.tsinghua.edu.cn/info/1137/3889.htm) and [Prof. Wenguang Chen](https://pacman.cs.tsinghua.edu.cn/~cwg/). I maintained [ThuThesis](https://github.com/tuna/thuthesis) for quite a while.
 
 # Teaching
 
@@ -20,7 +20,7 @@ I received my master's and Ph.D. degrees from Tsinghua University, advised by [P
 
 # Events
 
-- 2025/11/29: **Dynamic Attention Load Balancing** accepted by [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems).
+- 2025/11/29: **Accelerating Long-Context Inference of Large Language Models via Dynamic Attention Load Balancing** accepted by [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems).
 - 2025/10/30: **SAGE** accepted by ICCBD+AI 2025.
 - 2025/06/19: **SimPoint+** Best Paper Nominee, [Best Paper Session @ Euro-par 2025](https://easychair.org/smart-program/EURO-PAR2025/2025-08-28.html#session:97092).
 - 2025/05/01: **"SimPoint+: More Stable, Accurate and Efficient Program Analysis"** accepted by [Euro-par 2025](https://2025.euro-par.org/).
