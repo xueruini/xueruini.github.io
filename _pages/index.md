@@ -20,6 +20,7 @@ I received my master's and Ph.D. degrees from Tsinghua University, advised by [P
 
 # Events
 
+- 2025/11/29: **Dynamic Attention Load Balancing** accepted by [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems).
 - 2025/10/30: **SAGE** accepted by ICCBD+AI 2025.
 - 2025/06/19: **SimPoint+** Best Paper Nominee, [Best Paper Session @ Euro-par 2025](https://easychair.org/smart-program/EURO-PAR2025/2025-08-28.html#session:97092).
 - 2025/05/01: **"SimPoint+: More Stable, Accurate and Efficient Program Analysis"** accepted by [Euro-par 2025](https://2025.euro-par.org/).
@@ -29,8 +30,8 @@ I received my master's and Ph.D. degrees from Tsinghua University, advised by [P
 # Publications
 
 - Jiangying Xue, Tianyu Xiong, Lingwei Chao, and Ruini Xue. **[SimPoint+: More Stable, Accurate and Efficient Program Analysis](https://link.springer.com/chapter/10.1007/978-3-031-99857-7_1)**, *In European Conference on Parallel Processing (Euro-Par 2025)*, pp. 3-17. Cham: Springer Nature Switzerland, 2025.
-- Jie Ou, Jinyu Guo, Yyueming Chen, Shuaihong Jiang, Ruini Xue and Wenhong Tian. **[A Neural Network-Based Pipeline Parallel Strategy Solver for Heterogeneous Environments](https://ieeexplore.ieee.org/document/11228254)**, 2025 International Joint Conference on Neural Networks (IJCNN), Rome, Italy, 2025, pp. 1-9, doi: 10.1109/IJCNN64981.2025.11228254.
-- Jie Ou, Jinyu Guo, Shuaihong Jiang, Zhaokun Wang, Yyueming Chen, Ruini Xue and Wenhong Tian. **[Low-Rank Decomposition Assisted Quantization and Inference Compensation for Quality Large Language Model Inference](https://ieeexplore.ieee.org/document/11229416)**, 2025 International Joint Conference on Neural Networks (IJCNN), Rome, Italy, 2025, pp. 1-9, doi: 10.1109/IJCNN64981.2025.11229416.
+- Jie Ou, Jinyu Guo, Yyueming Chen, Shuaihong Jiang, Ruini Xue and Wenhong Tian. **[A Neural Network-Based Pipeline Parallel Strategy Solver for Heterogeneous Environments](https://ieeexplore.ieee.org/document/11228254)**, *2025 International Joint Conference on Neural Networks (IJCNN)*, Rome, Italy, 2025, pp. 1-9, doi: 10.1109/IJCNN64981.2025.11228254.
+- Jie Ou, Jinyu Guo, Shuaihong Jiang, Zhaokun Wang, Yyueming Chen, Ruini Xue and Wenhong Tian. **[Low-Rank Decomposition Assisted Quantization and Inference Compensation for Quality Large Language Model Inference](https://ieeexplore.ieee.org/document/11229416)**, *2025 International Joint Conference on Neural Networks (IJCNN)*, Rome, Italy, 2025, pp. 1-9, doi: 10.1109/IJCNN64981.2025.11229416.
 - Haowen Bian, Lingwei Chao, Jingxuan Su, Wenhong Tian, Ruini Xue. **Robust ANN Searching for Dynamic Vector Streams without Rebuilding Index.** *2024 5th International Conference on Computer, Big Data and Artificial Intelligence (ICCBD+AI)*, Jingdezhen, China, 2024, pp. 278-282.
 - Nanxin Zhou, Yiwei Liu, Yujun Li, Ruini Xue. **A Generalization-Enhanced Method for Encrypted Proxy Traffic Identification Based on Autoencoder.** *2024 2nd International Conference On Mobile Internet, Cloud Computing and Information Security (MICCIS)*, Changsha City, China, 2024, pp. 221-228.
 - Zhongyu Yang, Chen Shen, Wei Shao, Tengfei Xing, Runbo Hu, Pengfei Xu, Hua Chai, Ruini Xue. **LDTR: Transformer-based Lane Detection with Anchor-chain Representation.** *Comp. Visual Media* (2024): 10(4):753-769.
