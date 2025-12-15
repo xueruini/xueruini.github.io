@@ -22,7 +22,7 @@ I received my master's and Ph.D. degrees from Tsinghua University, advised by [P
 
 - 2025/11/29: **Accelerating Long-Context Inference of Large Language Models via Dynamic Attention Load Balancing** accepted by [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems).
 - 2025/10/30: **SAGE** accepted by ICCBD+AI 2025.
-- 2025/09/01: **[数据中心智能调度关键技术与应用](https://item.jd.com/10191996492024.html)** 又电子工业出版社出版.
+- 2025/09/01: **[数据中心智能调度关键技术与应用](https://item.jd.com/10191996492024.html)** 由电子工业出版社出版.
 - 2025/06/19: **SimPoint+** Best Paper Nominee, [Best Paper Session @ Euro-par 2025](https://easychair.org/smart-program/EURO-PAR2025/2025-08-28.html#session:97092).
 - 2025/05/01: **"SimPoint+: More Stable, Accurate and Efficient Program Analysis"** accepted by [Euro-par 2025](https://2025.euro-par.org/).
 - 2025/04/01: **"A Neural Network-Based Pipeline Parallel Strategy Solver for Heterogeneous Environments"** accepted by [IJCNN 2025](https://2025.ijcnn.org/).
