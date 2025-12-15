@@ -30,6 +30,7 @@ I received my master's and Ph.D. degrees from Tsinghua University, advised by [P
 
 # Publications
 
+- Jie Ou, Jinyu Guo, Shuaihong Jiang, Xu Li, Ruini Xue, Wenhong Tian, Rajkumar Buyya, **[Accelerating long-context inference of large language models via dynamic attention load balancing](https://www.sciencedirect.com/science/article/abs/pii/S0950705125020568)**, *Knowledge-Based Systems*, Volume 333, 2026, 115018, ISSN 0950-7051, https://doi.org/10.1016/j.knosys.2025.115018.
 - Jiangying Xue, Tianyu Xiong, Lingwei Chao, and Ruini Xue. **[SimPoint+: More Stable, Accurate and Efficient Program Analysis](https://link.springer.com/chapter/10.1007/978-3-031-99857-7_1)**, *In European Conference on Parallel Processing (Euro-Par 2025)*, pp. 3-17. Cham: Springer Nature Switzerland, 2025.
 - Jie Ou, Jinyu Guo, Yyueming Chen, Shuaihong Jiang, Ruini Xue and Wenhong Tian. **[A Neural Network-Based Pipeline Parallel Strategy Solver for Heterogeneous Environments](https://ieeexplore.ieee.org/document/11228254)**, *2025 International Joint Conference on Neural Networks (IJCNN)*, Rome, Italy, 2025, pp. 1-9, doi: 10.1109/IJCNN64981.2025.11228254.
 - Jie Ou, Jinyu Guo, Shuaihong Jiang, Zhaokun Wang, Yyueming Chen, Ruini Xue and Wenhong Tian. **[Low-Rank Decomposition Assisted Quantization and Inference Compensation for Quality Large Language Model Inference](https://ieeexplore.ieee.org/document/11229416)**, *2025 International Joint Conference on Neural Networks (IJCNN)*, Rome, Italy, 2025, pp. 1-9, doi: 10.1109/IJCNN64981.2025.11229416.
