@@ -14,12 +14,13 @@ I received my master's and Ph.D. degrees from Tsinghua University, advised by [P
 
 # Teaching
 
-- *Operating System*, Undergradutaes, 2012-2025
+- *Operating System*, Undergradutaes, 2012-2026
 - *Distributed System*, Graduates, 2019-2025
 - *Advanced Network System*, Graduates, 2016-2018
 
 # Events
 
+- 2026/02/24: **GRASP: Fine-grained and Adaptive Sampled Simulation for GPU Performance Modeling** accepted by [ICS'2026](https://dipsa-qub.github.io/ICS2026-webpage/).
 - 2025/11/29: **Accelerating Long-Context Inference of Large Language Models via Dynamic Attention Load Balancing** accepted by [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems).
 - 2025/10/30: **SAGE** accepted by ICCBD+AI 2025.
 - 2025/09/01: **[数据中心智能调度关键技术与应用](https://item.jd.com/10191996492024.html)** 由电子工业出版社出版.
