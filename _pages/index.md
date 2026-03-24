@@ -20,6 +20,7 @@ I received my master's and Ph.D. degrees from Tsinghua University, advised by [P
 
 # Events
 
+- 2026/03/22: **Adaptive Probabilistic Transformer for Medical Image Segmentation** accepted by [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417426008614).
 - 2026/02/24: **GRASP: Fine-grained and Adaptive Sampled Simulation for GPU Performance Modeling** accepted by [ICS'2026](https://dipsa-qub.github.io/ICS2026-webpage/).
 - 2025/11/29: **Accelerating Long-Context Inference of Large Language Models via Dynamic Attention Load Balancing** accepted by [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems).
 - 2025/10/30: **SAGE** accepted by ICCBD+AI 2025.
@@ -31,6 +32,7 @@ I received my master's and Ph.D. degrees from Tsinghua University, advised by [P
 
 # Publications
 
+- Tahir Kamal, Tian Wenhong, Jinyu Guo, Muhammad Shafiq, Jiang Shuaihong, Ruini Xue. **Adaptive Probabilistic Transformer for Medical Image Segmentation**, *Expert Systems with Applications*, 2026, 131948, ISSN 0957-4174, https://doi.org/10.1016/j.eswa.2026.131948.
 - Lingwei Chao, Zhenxing Huang, Peilin Cai, Jiangying Xue, Tianyu Xiong and Ruini Xue, **[SAGE: Semantic-Aware GPU Kernel Embedding for Efficient Performance Simulation](https://ieeexplore.ieee.org/document/11387896)**, 2025 IEEE 6th International Conference on Computer, Big Data, Artificial Intelligence (ICCBD+AI), Xiamen, China, 2025, pp. 1-5, doi: 10.1109/ICCBDAI66607.2025.11387896.
 - Jie Ou, Jinyu Guo, Shuaihong Jiang, Xu Li, Ruini Xue, Wenhong Tian, Rajkumar Buyya, **[Accelerating long-context inference of large language models via dynamic attention load balancing](https://www.sciencedirect.com/science/article/abs/pii/S0950705125020568)**, *Knowledge-Based Systems*, Volume 333, 2026, 115018, ISSN 0950-7051, https://doi.org/10.1016/j.knosys.2025.115018.
 - Jiangying Xue, Tianyu Xiong, Lingwei Chao, and Ruini Xue. **[SimPoint+: More Stable, Accurate and Efficient Program Analysis](https://link.springer.com/chapter/10.1007/978-3-031-99857-7_1)**, *In European Conference on Parallel Processing (Euro-Par 2025)*, pp. 3-17. Cham: Springer Nature Switzerland, 2025.
