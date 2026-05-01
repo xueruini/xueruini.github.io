@@ -10,7 +10,9 @@ redirect_from:
 
 I am currently teaching the graduate course *Distributed Systems* and the undergraduate course *Operating Systems*. My research interests span computer architecture and distributed systems, with a focus on AI for systems (simulation for RISC-V CPUs and GPUs) and systems for AI (i.e., AI compilers, high-efficiency inference engines, vector indexing, and graph databases/computing). Our research outcomes have been integrated into products or deployed in production environments at leading companies such as [Ant Group](https://www.antgroup.com/), [DiDi Global](https://www.didiglobal.com/), and [Stargraph](https://www.stargraph.cn/). If you are interested in conducting research on AI infrastructure or chipset simulation methodologies, please feel free to contact me via the email address in the left column.
 
-I received my master's and Ph.D. degrees from Tsinghua University, advised by [Prof. Weimin Zheng](https://www.cs.tsinghua.edu.cn/info/1137/3889.htm) and [Prof. Wenguang Chen](https://pacman.cs.tsinghua.edu.cn/~cwg/). I maintained [ThuThesis](https://github.com/tuna/thuthesis) for quite a while.
+I received my master's and Ph.D. degrees from Tsinghua University, advised by [Prof. Weimin Zheng](https://www.cs.tsinghua.edu.cn/info/1137/3889.htm) and [Prof. Wenguang Chen](https://pacman.cs.tsinghua.edu.cn/~cwg/).
+
+I have long been interested in TeX and related tooling. I maintained [ThuThesis](https://github.com/tuna/thuthesis) for many years and currently maintain [zebra](https://ctan.org/pkg/zebra), a writing revision toolkit.
 
 # Teaching
 
