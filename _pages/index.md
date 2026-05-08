@@ -12,7 +12,7 @@ I am currently teaching the graduate course *Distributed Systems* and the underg
 
 I received my master's and Ph.D. degrees from Tsinghua University, advised by [Prof. Weimin Zheng](https://www.cs.tsinghua.edu.cn/info/1137/3889.htm) and [Prof. Wenguang Chen](https://pacman.cs.tsinghua.edu.cn/~cwg/).
 
-I have long been interested in TeX and related tooling. I maintained [ThuThesis](https://github.com/tuna/thuthesis) for many years and currently maintain [zebra](https://ctan.org/pkg/zebra), a writing revision toolkit.
+I have long been interested in TeX and related tooling. I maintained [ThuThesis](https://github.com/tuna/thuthesis) for many years and currently maintain [zebra](https://github.com/xueruini/zebra), a writing revision toolkit.
 
 # Teaching
 
