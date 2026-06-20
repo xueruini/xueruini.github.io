@@ -96,11 +96,11 @@ I have long been interested in TeX and related tooling. I maintained [ThuThesis]
 - Tianyu Xiong
 - Weiyuan Shen
 
+## Graduated
 - Jiangying Xue
 - Lingna Xin
 - Lingwei Chao
 
-## Graduated
 - Haowen Bian
 - Jingxuan Su
 
