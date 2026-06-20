@@ -82,6 +82,13 @@ I have long been interested in TeX and related tooling. I maintained [ThuThesis]
 # Alumni
 
 ## Current
+- Mengda Zhao
+- Zhengyang Liao
+- Minhao Dai
+- Haoran Tang
+- Chaokai Zhang
+- Chengyu Xia
+
 - Xueyin Wang
 - Yaodong Hu
 
