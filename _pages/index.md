@@ -22,6 +22,7 @@ I have long been interested in TeX and related tooling. I maintained [ThuThesis]
 
 # Events
 
+- 2026/07/03: **Recall-Aware Approximate Nearest Neighbor Search with Learned Cluster Selection and Edge-Weight Pruning** accepted by [BDMA](https://www.sciopen.com/journal/2096-0654)
 - 2026/03/27: **DRoPipe: 基于双维数据并行和轮询多层流水线并行的分布式训练结构** accepted by 计算机学报
 - 2026/03/22: **Adaptive Probabilistic Transformer for Medical Image Segmentation** accepted by [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417426008614).
 - 2026/02/24: **GRASP: Fine-grained and Adaptive Sampled Simulation for GPU Performance Modeling** accepted by [ICS'2026](https://dipsa-qub.github.io/ICS2026-webpage/).
