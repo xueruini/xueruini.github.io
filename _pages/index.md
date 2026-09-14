@@ -91,6 +91,7 @@ I have long been interested in TeX and related tooling. I maintained [ThuThesis]
 - Haoran Tang
 - Chaokai Zhang
 - Chengyu Xia
+- Bendriss Salma
 
 - Xueyin Wang
 - Yaodong Hu
