@@ -17,11 +17,12 @@ I have long been interested in TeX and related tooling. I maintained [ThuThesis]
 # Teaching
 
 - *Operating System*, Undergradutaes, 2012-2026
-- *Distributed System*, Graduates, 2019-2025
+- *Distributed System*, Graduates, 2019-2026
 - *Advanced Network System*, Graduates, 2016-2018
 
 # Events
 
+- 2026/09/11: **SemPerf: Fusing Semantic and Performance Cues for Sampling-Based Simulation** accepted by [ICCD'2026](https://www.iccd-conf.com/2026)
 - 2026/07/03: **Recall-Aware Approximate Nearest Neighbor Search with Learned Cluster Selection and Edge-Weight Pruning** accepted by [BDMA](https://www.sciopen.com/journal/2096-0654)
 - 2026/03/27: **DRoPipe: 基于双维数据并行和轮询多层流水线并行的分布式训练结构** accepted by 计算机学报
 - 2026/03/22: **Adaptive Probabilistic Transformer for Medical Image Segmentation** accepted by [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417426008614).
@@ -36,6 +37,7 @@ I have long been interested in TeX and related tooling. I maintained [ThuThesis]
 
 # Publications
 
+- Ruini Xue, Lingwei Chao, Zhenxing Huang, Peilin Cai, Jiangying Xue, and Tianyu Xiong. 2026. GRASP: Fine-grained and Adaptive Sampled Simulation for GPU Performance Modeling. In Proceedings of the 40th ACM International Conference on Supercomputing (ICS '26). Association for Computing Machinery, New York, NY, USA, 215–226. https://doi.org/10.1145/3797905.3800517
 - Tahir Kamal, Tian Wenhong, Jinyu Guo, Muhammad Shafiq, Jiang Shuaihong, Ruini Xue. **Adaptive Probabilistic Transformer for Medical Image Segmentation**, *Expert Systems with Applications*, 2026, 131948, ISSN 0957-4174, https://doi.org/10.1016/j.eswa.2026.131948.
 - Lingwei Chao, Zhenxing Huang, Peilin Cai, Jiangying Xue, Tianyu Xiong and Ruini Xue, **[SAGE: Semantic-Aware GPU Kernel Embedding for Efficient Performance Simulation](https://ieeexplore.ieee.org/document/11387896)**, 2025 IEEE 6th International Conference on Computer, Big Data, Artificial Intelligence (ICCBD+AI), Xiamen, China, 2025, pp. 1-5, doi: 10.1109/ICCBDAI66607.2025.11387896.
 - Jie Ou, Jinyu Guo, Shuaihong Jiang, Xu Li, Ruini Xue, Wenhong Tian, Rajkumar Buyya, **[Accelerating long-context inference of large language models via dynamic attention load balancing](https://www.sciencedirect.com/science/article/abs/pii/S0950705125020568)**, *Knowledge-Based Systems*, Volume 333, 2026, 115018, ISSN 0950-7051, https://doi.org/10.1016/j.knosys.2025.115018.
