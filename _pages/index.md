@@ -21,7 +21,7 @@ I have long been interested in TeX and related tooling. I maintained [ThuThesis]
 - *Advanced Network System*, Graduates, 2016-2018
 
 # Events
-
+- 2026/11/10: **Decoupled Structural Pruning for Partition-Based Approximate Nearest Neighbor Search** accepted by [PDCAT 2026](https://www.pd-cat.org/2026/index.html)* accepted by [PDCAT 2026](https://www.pd-cat.org/2026/index.html)
 - 2026/09/11: **SemPerf: Fusing Semantic and Performance Cues for Sampling-Based Simulation** accepted by [ICCD'2026](https://www.iccd-conf.com/2026)
 - 2026/07/03: **Recall-Aware Approximate Nearest Neighbor Search with Learned Cluster Selection and Edge-Weight Pruning** accepted by [BDMA](https://www.sciopen.com/journal/2096-0654)
 - 2026/03/27: **DRoPipe: 基于双维数据并行和轮询多层流水线并行的分布式训练结构** accepted by 计算机学报
