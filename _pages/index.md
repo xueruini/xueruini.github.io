@@ -21,19 +21,19 @@ I have long been interested in TeX and related tooling. I maintained [ThuThesis]
 - *Advanced Network System*, Graduates, 2016-2018
 
 # Events
-- 2026/11/10: **Decoupled Structural Pruning for Partition-Based Approximate Nearest Neighbor Search** accepted by [PDCAT 2026](https://www.pd-cat.org/2026/index.html)* accepted by [PDCAT 2026](https://www.pd-cat.org/2026/index.html)
-- 2026/09/11: **SemPerf: Fusing Semantic and Performance Cues for Sampling-Based Simulation** accepted by [ICCD'2026](https://www.iccd-conf.com/2026)
-- 2026/07/03: **Recall-Aware Approximate Nearest Neighbor Search with Learned Cluster Selection and Edge-Weight Pruning** accepted by [BDMA](https://www.sciopen.com/journal/2096-0654)
-- 2026/03/27: **DRoPipe: 基于双维数据并行和轮询多层流水线并行的分布式训练结构** accepted by 计算机学报
-- 2026/03/22: **Adaptive Probabilistic Transformer for Medical Image Segmentation** accepted by [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417426008614).
-- 2026/02/24: **GRASP: Fine-grained and Adaptive Sampled Simulation for GPU Performance Modeling** accepted by [ICS'2026](https://dipsa-qub.github.io/ICS2026-webpage/).
-- 2025/11/29: **Accelerating Long-Context Inference of Large Language Models via Dynamic Attention Load Balancing** accepted by [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems).
+- 2026/11/10: "**Decoupled Structural Pruning for Partition-Based Approximate Nearest Neighbor Search**" accepted by [PDCAT 2026](https://www.pd-cat.org/2026/index.html) accepted by [PDCAT 2026](https://www.pd-cat.org/2026/index.html)
+- 2026/09/11: "**SemPerf: Fusing Semantic and Performance Cues for Sampling-Based Simulation**" accepted by [ICCD'2026](https://www.iccd-conf.com/2026)
+- 2026/07/03: "**Recall-Aware Approximate Nearest Neighbor Search with Learned Cluster Selection and Edge-Weight Pruning**" accepted by [BDMA](https://www.sciopen.com/journal/2096-0654)
+- 2026/03/27: "**DRoPipe: 基于双维数据并行和轮询多层流水线并行的分布式训练结构**" accepted by 计算机学报
+- 2026/03/22: "**Adaptive Probabilistic Transformer for Medical Image Segmentation**" accepted by [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417426008614).
+- 2026/02/24: "**GRASP: Fine-grained and Adaptive Sampled Simulation for GPU Performance Modeling**" accepted by [ICS'2026](https://dipsa-qub.github.io/ICS2026-webpage/).
+- 2025/11/29: "**Accelerating Long-Context Inference of Large Language Models via Dynamic Attention Load Balancing**" accepted by [Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems).
 - 2025/10/30: **SAGE** accepted by ICCBD+AI 2025.
-- 2025/09/01: **[数据中心智能调度关键技术与应用](https://item.jd.com/10191996492024.html)** 由电子工业出版社出版.
+- 2025/09/01: **[《数据中心智能调度关键技术与应用》](https://item.jd.com/10191996492024.html)** 由电子工业出版社出版.
 - 2025/06/19: **SimPoint+** Best Paper Nominee, [Best Paper Session @ Euro-par 2025](https://easychair.org/smart-program/EURO-PAR2025/2025-08-28.html#session:97092).
-- 2025/05/01: **"SimPoint+: More Stable, Accurate and Efficient Program Analysis"** accepted by [Euro-par 2025](https://2025.euro-par.org/).
-- 2025/04/01: **"A Neural Network-Based Pipeline Parallel Strategy Solver for Heterogeneous Environments"** accepted by [IJCNN 2025](https://2025.ijcnn.org/).
-- 2025/04/01: **"Low-Rank Decomposition Assisted Quantization and Inference Compensation for Quality Large Language Model Inference"** accepted by [IJCNN 2025](https://2025.ijcnn.org/).
+- 2025/05/01: "**SimPoint+: More Stable, Accurate and Efficient Program Analysis**" accepted by [Euro-par 2025](https://2025.euro-par.org/).
+- 2025/04/01: "**A Neural Network-Based Pipeline Parallel Strategy Solver for Heterogeneous Environments**" accepted by [IJCNN 2025](https://2025.ijcnn.org/).
+- 2025/04/01: "**Low-Rank Decomposition Assisted Quantization and Inference Compensation for Quality Large Language Model Inference**" accepted by [IJCNN 2025](https://2025.ijcnn.org/).
 
 # Publications
 
